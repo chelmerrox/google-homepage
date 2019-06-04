@@ -11,3 +11,7 @@ body {
     text-decoration: none;
     font: 13px arial, sans-serif;
 }
+.gmailandimages:hover {
+    color: black;
+    text-decoration: underline;
+}
