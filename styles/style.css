@@ -181,3 +181,12 @@ p {
 #howsearchworks {
     word-spacing: 1px;
 }
+
+/*Styling for the links on bottom right*/
+.bottomrightlinks {
+    float: right;
+    word-spacing: 15px;
+    margin-bottom: 0; 
+    margin-right: 0;  
+    padding-bottom: 0;
+}
