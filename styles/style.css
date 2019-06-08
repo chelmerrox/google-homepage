@@ -176,3 +176,8 @@ p {
     margin-left: 0;
     margin-bottom: 0;
 }
+
+/*styling for the how search works link*/
+#howsearchworks {
+    word-spacing: 1px;
+}
