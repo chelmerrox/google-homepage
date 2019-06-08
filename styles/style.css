@@ -98,3 +98,8 @@ input[type="text"] {
     outline: none;
    
 }
+
+/*Adding the grey blurry shadow behind search bar and the two buttons when cursor hovers over each one of them*/
+input:hover {
+    box-shadow: 1px 1px 1px rgb(221, 217, 217);  
+}
