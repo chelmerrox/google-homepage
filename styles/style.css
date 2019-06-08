@@ -168,3 +168,11 @@ p {
     margin: 0; 
     line-height: 25px;
 }
+
+/*Styling for links on the bottom left*/
+.bottomleftlinks {
+    text-decoration: none;
+    color: grey;
+    margin-left: 0;
+    margin-bottom: 0;
+}
