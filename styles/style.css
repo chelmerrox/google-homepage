@@ -113,3 +113,37 @@ input:hover {
     margin-top: 0;
 }
 
+/*Styling for the google search and I'm feeling lucky buttons*/
+input.buttons {
+    border-color:rgb(245, 241, 241);
+    border-radius: 3px;
+    margin-bottom: 20px;
+    display: inline;
+
+}
+
+/*Styling for google search button*/
+#button1 {
+    margin: 0 0 30px 530px;
+    height: 36px;
+    line-height: 27px;
+    border-radius: 4px;     /*making the corners of search bar more curved*/
+    border: 1px solid #f2f2f2;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: grey;
+    background-color: rgb(245, 241, 241);
+}
+
+/*Styling for I'm feeling lucky buttons*/
+#button2 {
+    margin: 0 460px 30px 2px;
+    height: 36px;
+    line-height: 27px;
+    border-radius: 4px;
+    border: 1px solid #f2f2f2; 
+    padding-left: 15px;
+    padding-right: 15px;
+    color: grey;
+    background-color: rgb(245, 241, 241);
+}
