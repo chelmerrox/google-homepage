@@ -103,3 +103,13 @@ input[type="text"] {
 input:hover {
     box-shadow: 1px 1px 1px rgb(221, 217, 217);  
 }
+
+/*Style for microphone icon image*/
+#microphoneicon {
+    width: 15px;
+    height: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
