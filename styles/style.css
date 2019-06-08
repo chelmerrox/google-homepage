@@ -202,3 +202,9 @@ p {
     color: grey;
     text-decoration: underline;
 }
+
+/*Setting the pseudo-class for each bottom right links where they'd be underlined when cursor hovers over each one*/
+#bottomrightlink1:hover, #bottomrightlink2:hover, #bottomrightlink3:hover {
+    color: grey;
+    text-decoration: underline;
+}
