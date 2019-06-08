@@ -147,3 +147,13 @@ input.buttons {
     color: grey;
     background-color: rgb(245, 241, 241);
 }
+
+/*Styling for location text on the left*/
+p {
+    color: grey;
+    font: 15px arial, sans-serif;
+    border-top: solid 1px rgb(204, 197, 197);
+    background-color: rgb(245, 241, 241); 
+    padding: 15px;
+    margin: 0 auto;
+}
