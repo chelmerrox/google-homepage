@@ -16,11 +16,17 @@ body {
     display: inline;
 }
 
+/*Styling for gmail and image links*/
 .gmailandimages {
     color: black;
     text-decoration: none;
     font: 13px arial, sans-serif;
+    margin-top: 0;
+    padding: 0;
 }
+
+
+/*Styling for gmail and image links using a pseudo-class for an underline on the links' text when cursor hovers over each one*/
 .gmailandimages:hover {
     color: black;
     text-decoration: underline;
