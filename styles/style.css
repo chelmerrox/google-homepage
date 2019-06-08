@@ -63,3 +63,12 @@ i#googleappsicon:hover {
 a#signinbutton:hover {
     box-shadow: 1px 1px 1px rgb(192, 189, 189);
 }
+
+/*Styling for google homepage logo*/
+img {
+    width: 350px;
+    height: 220px;
+    padding: 10px 10px 0 10px;
+    margin: 100px 460px 0 460px;
+     
+}
