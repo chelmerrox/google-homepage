@@ -196,3 +196,9 @@ p {
     color: grey;
     text-decoration: none;
 }
+
+/*Setting the pseudo-class for bottom left links where they'd be underlined when cursor hovers over each one*/
+.bottomleftlinks:hover {
+    color: grey;
+    text-decoration: underline;
+}
