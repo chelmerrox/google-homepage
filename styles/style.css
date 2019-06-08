@@ -190,3 +190,9 @@ p {
     margin-right: 0;  
     padding-bottom: 0;
 }
+
+/*Setting the no underline and grey color for bottom right links*/
+#bottomrightlink1, #bottomrightlink2, #bottomrightlink3 {
+    color: grey;
+    text-decoration: none;
+}
