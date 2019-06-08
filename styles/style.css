@@ -72,3 +72,12 @@ img {
     margin: 100px 460px 0 460px;
      
 }
+
+/*Styling for search bar and the two buttons*/
+.input-container {
+    margin-top: 0;
+    margin-left: 350px; 
+    margin-right: 0;
+    
+    
+}
