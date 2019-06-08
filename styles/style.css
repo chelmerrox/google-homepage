@@ -42,3 +42,24 @@ body {
 i#googleappsicon:hover {
     color: black;
 }
+
+/*Styling for sign in button/link*/
+#signinbutton {
+    color: white;
+    margin-right: 15px;
+    margin-top: 2px;
+    padding: 7px 9px;
+    background-color: #4387fd;
+    border: 15px 25px #4387fd;
+    text-decoration: none;
+    font: 13px arial, sans-serif;
+    font-weight: bolder;
+    border-radius: 2px;
+    word-spacing: 1px;
+    
+}
+
+/*Adding the blurry shadow behind the button when cursor hovers over it*/
+a#signinbutton:hover {
+    box-shadow: 1px 1px 1px rgb(192, 189, 189);
+}
