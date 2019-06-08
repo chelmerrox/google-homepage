@@ -1,6 +1,12 @@
+/*Styling the whole body*/
 body {
-    background-color: white;
+    background: white;
+    margin: 0;
+    padding: 0;
+    margin-right: 0;
+    position: absolute;
 }
+
 .toprightlinks {
     float: right;
     margin: 0;
