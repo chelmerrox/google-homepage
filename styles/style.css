@@ -81,3 +81,14 @@ img {
     
     
 }
+
+/*Setting rounded corners for search bar and increasing space inside by increasing line-height; note that it's a border so obviously use the border property*/
+#searchbar {
+    border-radius: 25px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(224, 223, 223);
+    line-height: 45px; /*Increasing the height of the border/the space inside the border where user inputs text search */
+    background-position: 11px 20px;
+
+}
