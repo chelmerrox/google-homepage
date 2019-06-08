@@ -31,3 +31,14 @@ body {
     color: black;
     text-decoration: underline;
 }
+
+/*Styling for google apps icon*/
+#googleappsicon {
+    color: grey; 
+    margin-top: 20px;   
+}
+
+/*Styling google app icon to turn black when cursor hovers over it*/
+i#googleappsicon:hover {
+    color: black;
+}
