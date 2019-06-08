@@ -92,3 +92,9 @@ img {
     background-position: 11px 20px;
 
 }
+
+/*Removing the blue border around search bar when it is clicked on*/
+input[type="text"] {
+    outline: none;
+   
+}
