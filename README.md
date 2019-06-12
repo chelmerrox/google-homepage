@@ -14,5 +14,5 @@ The purpose of this project is to practise on building a web page using HTML and
 
 ## Author:
 
-Losalini Rokocakau
-GitHub username: *chelmerrox*
+Losalini Rokocakau.
+**GitHub username:** *chelmerrox*
