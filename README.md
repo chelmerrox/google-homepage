@@ -10,7 +10,7 @@ The purpose of this project is to practise on building a web page using HTML and
 
 ## Screenshot of project/web page
 
-![My Google homepage](images/mygooglehomepage.png)
+![My Google homepage](images/mygooglehomepage-1.png)
 
 ## Author
 
