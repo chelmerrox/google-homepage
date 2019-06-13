@@ -90,7 +90,7 @@ img {
     border-color: rgb(224, 223, 223);
     line-height: 45px; /*Increasing the height of the border/the space inside the border where user inputs text search */
     background-position: 11px 20px;
-
+    padding-left: 15px; /*Moves the blinking vertical line inside text-field (upon clicking on it) to the right*/
 }
 
 /*Removing the blue border around search bar when it is clicked on*/
