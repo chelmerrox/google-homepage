@@ -101,7 +101,7 @@ input[type="text"] {
 
 /*Adding the grey blurry shadow behind search bar and the two buttons when cursor hovers over each one of them*/
 input:hover {
-    box-shadow: 1px 1px 1px rgb(221, 217, 217);  
+    box-shadow: 1px 1px 7px 1px rgb(221, 217, 217);  /*the third numeric value gives the text-field and the two buttons its box-shadow all around the border when cursor hovers over each one of them*/
 }
 
 /*Style for microphone icon image*/
