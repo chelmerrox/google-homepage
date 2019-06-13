@@ -104,6 +104,11 @@ input[type="text"] {
     box-shadow: 1px 1px 7px 1px rgb(221, 217, 217);  /*the third numeric value gives the text-field its box-shadow all around the border when cursor hovers it*/
 }
 
+/*Adding the grey blurry shadow and border outline on the two buttons (Google Search and I'm Feeling Lucky) when cursor hovers over each one*/
+#button1:hover, #button2:hover {
+    border: 0.5px solid rgb(180, 175, 175);
+    box-shadow: 1px 1px 1px rgb(221, 217, 217);
+}
 
 
 /*Style for microphone icon image*/
