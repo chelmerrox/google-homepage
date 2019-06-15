@@ -2,9 +2,8 @@
 body {
     background: white;
     margin: 0;
-    padding: 0;
-    margin-right: 0;
-    position: absolute;
+    display: block;
+    
 }
 
 /*Styling for top right links*/
@@ -14,6 +13,8 @@ body {
     padding: 0;
     word-spacing: 9px;
     display: inline;
+    position: absolute;
+
 }
 
 /*Styling for gmail and image links*/
