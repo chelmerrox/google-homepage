@@ -3,7 +3,6 @@ body {
     background: white;
     margin: 0;
     display: block;
-    
 }
 
 /*Styling for top right links*/
@@ -12,6 +11,7 @@ body {
     margin: 0 0 0 900px;
     padding: 0;
     word-spacing: 9px;
+    
 }
 
 /*Styling for gmail and image links*/
@@ -116,6 +116,9 @@ input[type="text"] {
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;
+    position: relative;
+    left: -56px;
+    top: 4px;
 }
 
 /*Styling for the google search and I'm feeling lucky buttons*/
@@ -124,7 +127,6 @@ input.buttons {
     border-radius: 3px;
     margin-bottom: 20px;
     display: inline;
-
 }
 
 /*Styling for google search button*/
@@ -142,7 +144,7 @@ input.buttons {
 
 /*Styling for I'm feeling lucky buttons*/
 #button2 {
-    margin: 0 460px 30px 2px;
+    margin: 0 2px;
     height: 36px;
     line-height: 27px;
     border-radius: 4px;
@@ -193,7 +195,7 @@ p {
     word-spacing: 15px;
     margin-bottom: 0; 
     margin-right: 0;  
-    padding-bottom: 0;
+    
 }
 
 /*Setting the no underline and grey color for bottom right links*/
