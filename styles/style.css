@@ -33,7 +33,9 @@ body {
 /*Styling for google apps icon*/
 #googleappsicon {
     color: grey; 
-    margin-top: 20px;   
+    margin-top: 20px; 
+    position: relative;
+    top: 8px;  
 }
 
 /*Styling google app icon to turn black when cursor hovers over it*/
