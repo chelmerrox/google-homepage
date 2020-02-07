@@ -10,7 +10,11 @@ The purpose of this project is to practise on building a web page using HTML and
 
 ## Screenshot of project/web page
 
-![My Google homepage](images/mygooglehomepage-2.png)
+![My Google homepage](images/googlehomepage_2.PNG)
+
+## View my Google Homepage
+
+https://chelmerrox.github.io/google-homepage/
 
 ## Author
 
